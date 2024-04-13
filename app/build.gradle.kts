@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.lection.lection_ci_cd"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.lection.lection_ci_cd"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
